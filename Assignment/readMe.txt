@@ -1,5 +1,5 @@
-1)Akash Dutta ( 2018H1030119P)
-2)Anand Wani ( 2018H1030143P) 
+
+1)Anand Wani ( 2018H1030143P) 
 
 Syntax : 
 	Server :  ./quiz_server
